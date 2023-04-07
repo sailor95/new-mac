@@ -30,6 +30,8 @@ What to do after getting a new Mac
 
 - [Git installation](https://git-scm.com/download/mac)
 - [Fork](https://git-fork.com)
+- Setup Git user email and name
+- Login Github from Git bash
 
 ### Others
 
