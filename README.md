@@ -7,6 +7,7 @@ What to do after getting a new Mac
 - Pull default Apple apps into one folder in Launchpad
 - Setup Finder
   - Toolbar appearance
+  - [Hard disk visibility](https://apple.stackexchange.com/questions/72821/how-do-i-make-the-hard-drive-visible-in-the-finder)
 - Setup Dock
   - Only leave min necessary apps
   - On left
