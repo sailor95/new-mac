@@ -8,12 +8,20 @@ What to do after getting a new Mac
 - Setup Finder
   - Toolbar appearance
   - [Hard disk visibility](https://apple.stackexchange.com/questions/72821/how-do-i-make-the-hard-drive-visible-in-the-finder)
+  - [VSCode & Terminal quick access](https://stackoverflow.com/questions/64040393/open-a-folder-in-vscode-through-finder-in-macos)
 - Setup Dock
   - Only leave min necessary apps
   - On left
   - Auto hide
   - Resize
 - Setup find my Mac
+- Setup Terminal
+  - Use bash as default: `chsh -s /bin/bash`
+  - Clone my `DHbashrc` repo to local
+  - Add `.bash_profile` at ~, reference `.DHbashrc` location
+- [Install Brew](https://brew.sh/)
+- Install Node: `brew install node`
+  - (Optional) [Downgrade to specific version](https://medium.com/@georgeenathomas/3-step-process-to-downgrade-node-version-using-homebrew-bc0b0a72ae27)
 
 ## Apps
 
