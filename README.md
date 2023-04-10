@@ -20,6 +20,7 @@ What to do after getting a new Mac
   - Clone my `DHbashrc` repo to local
   - Add `.bash_profile` at ~, reference `.DHbashrc` location
 - [Install Brew](https://brew.sh/)
+  - Add bash & git auto complete: `brew install bash-completion` (then add the hint script to `.bash_profile`)
 - Install Node: `brew install node`
   - (Optional) [Downgrade to specific version](https://medium.com/@georgeenathomas/3-step-process-to-downgrade-node-version-using-homebrew-bc0b0a72ae27)
 
