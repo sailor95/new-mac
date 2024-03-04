@@ -17,7 +17,7 @@ What to do after getting a new Mac
 - Setup find my Mac
 - Setup Terminal
   - Use bash as default: `chsh -s /bin/bash`
-  - Clone my `DHbashrc` repo to local
+  - Clone my `DHbashrc` repo to local (See: [workbash repo](https://github.com/sailor95/work-bashrc/tree/master))
   - Add `.bash_profile` at ~, reference `.DHbashrc` location
 - [Install Brew](https://brew.sh/)
   - Add bash & git auto complete: `brew install bash-completion` (then add the hint script to `.bash_profile`)
