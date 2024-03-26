@@ -19,6 +19,7 @@ What to do after getting a new Mac
   - Use bash as default: `chsh -s /bin/bash`
   - Clone my `DHbashrc` repo to local (See: [workbash repo](https://github.com/sailor95/work-bashrc/tree/master))
   - Add `.bash_profile` at ~, reference `.DHbashrc` location
+  - Setup Mac terminal git [autocomplete](https://dev.to/dsc_ciet/how-to-enable-git-auto-completion-in-apple-terminal-40l2)
 - [Install Brew](https://brew.sh/)
   - Add bash & git auto complete: `brew install bash-completion` (then add the hint script to `.bash_profile`)
 - Install Node: `brew install node`
